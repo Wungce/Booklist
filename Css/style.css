@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+}
+.page-wrapper {
+	width: 100%;
+}
+body {
+	/* background-color: hotpink; */
+	font-family: "Encode Sans SC", sans-serif;
+}
+.form-field-box {
+	width: 100%;
+	display: inline;
+}
+.firstInput {
+	padding: 1%;
+	margin-left: 33%;
+}
+.allInpu {
+	width: 49%;
+	padding: 1% 0%;
+	font-size: 20px;
+	background-color: transparent;
+	border-color: black;
+}
+.button-1 {
+	width: 49%;
+	padding: 1% 1%;
+	font-size: 20px;
+	background-color: transparent;
+}
+.table-1 {
+	width: 32%;
+	margin: auto;
+	border: 1px solid black;
+	border-left: none;
+	border-right: none;
+}
+.form-messg {
+	width: 20%;
+	margin: auto;
+	padding: 2% 0%;
+	/* border: 1px solid gray;s */
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	position: fixed;
+	top: 5%;
+	left: 11%;
+}
